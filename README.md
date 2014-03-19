@@ -29,3 +29,11 @@
 * Download [here](http://www.eclipse.org/downloads/packages/eclipse-ide-java-ee-developers/indigosr2)
 * Assignments:
   * Install Eclipse IDE
+
+### IntelliJ IDEA
+
+* Wikipedia link [here](http://en.wikipedia.org/wiki/IntelliJ_IDEA)
+* Official website [here](http://www.jetbrains.com/idea/)
+* Download [here](http://www.jetbrains.com/idea/download/)
+* Assignments:
+  * Install IntelliJ IDEA
