@@ -37,3 +37,19 @@
 * Download [here](http://www.jetbrains.com/idea/download/)
 * Assignments:
   * Install IntelliJ IDEA
+
+### Apache Tomcat
+
+* Wikipedia link [here](http://en.wikipedia.org/wiki/Apache_Tomcat)
+* Official website [here](http://tomcat.apache.org/)
+* Download [here](http://tomcat.apache.org/download-80.cgi)
+* Assignments:
+  * Install Apache Tomcat
+
+### Spring Framework
+
+* Wikipedia link [here](http://en.wikipedia.org/wiki/Spring_Framework)
+* Official website [here](http://projects.spring.io/spring-framework/)
+* Documentation [here](http://spring.io/docs)
+* Assignments:
+  * Explore the docs & API
